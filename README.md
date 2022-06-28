@@ -16,7 +16,7 @@ Training dataset
 Testing dataset
 * [Download Link](https://pan.baidu.com/s/1Yp5YtVIBB3-9PMFruYhxSw). Code: f7vk
 
-
+## Testing
 Download pretrained model from [here](https://pan.baidu.com/s/1_3rA5Y_jtUXzIJO8imZz2g). Code: qcra
 * Modify your path of testing dataset in test.py
 * Run test.py to inference saliency maps
