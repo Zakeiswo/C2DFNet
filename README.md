@@ -17,10 +17,10 @@ Testing dataset
 * [Download Link](https://pan.baidu.com/s/1Yp5YtVIBB3-9PMFruYhxSw). Code: f7vk
 
 
-Download pretrained model from [here](). Code: 
-* Modify your path of testing dataset in test_depth
+Download pretrained model from [here](https://pan.baidu.com/s/1_3rA5Y_jtUXzIJO8imZz2g). Code: qcra
+* Modify your path of testing dataset in test.py
 * Run test.py to inference saliency maps
-* Saliency maps generated from the RGB stream can be downnloaded from [here](). Code: 
+* Saliency maps generated from the model can be downnloaded from [here](https://pan.baidu.com/s/10UQOmUbDWDvw87gGAjeM-A). Code: hp32
 
 ```shell
 python test.py
@@ -28,4 +28,4 @@ python test.py
 
 
 ## Contact and Questions
-Contact: Zhengkun Rong. Email: yao_shunyu@foxmail.com or ysyfever-few@mail.dlut.edu.cn
+Contact: Shunyu Yao. Email: yao_shunyu@foxmail.com or ysyfeverfew@mail.dlut.edu.cn
