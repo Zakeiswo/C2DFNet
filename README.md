@@ -1,5 +1,5 @@
 # C2DFNet
-This is the official implementaion of TMM 2022 paper "C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection".
+This is the official implementation of TMM 2022 paper "C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection".
 
 Miao Zhang, Shunyu Yao, Beiqi Hu, [Yongri Piao](http://ice.dlut.edu.cn/yrpiao/), Wei Ji.
 
